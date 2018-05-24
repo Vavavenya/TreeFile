@@ -1,0 +1,13 @@
+{
+    "name": "tree/mn",
+    "description": "dir tree",
+    "type": "project",
+    "license": "MIT",
+    "minimum-stability": "stable",
+    "require": {},
+    "autoload": {
+    	"psr-4": {
+    		"liw\\": ""
+    	}
+    }
+}
